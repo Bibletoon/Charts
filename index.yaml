@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  supabase:
+  - apiVersion: v2
+    created: "2024-08-31T11:13:29.239603573Z"
+    description: The open source Firebase alternative.
+    digest: 475527ba38bc9bbcafa616ad9a78ca6c01afcc87a36671f2ef81cb270d5c1a0a
+    icon: https://avatars.githubusercontent.com/u/54469796?s=280&v=4
+    name: supabase
+    type: application
+    urls:
+    - https://github.com/Bibletoon/Charts/releases/download/supabase-1.0.0/supabase-1.0.0.tgz
+    version: 1.0.0
   wakapi:
   - apiVersion: v2
     appVersion: 2.11.2
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://github.com/Bibletoon/Charts/releases/download/wakapi-1.0.0/wakapi-1.0.0.tgz
     version: 1.0.0
-generated: "2024-08-24T12:20:26.709471098Z"
+generated: "2024-08-31T11:13:29.239613211Z"
